@@ -1,6 +1,6 @@
 # 💸 No trust fund, just a trusty GTX 1060 – Diciembre 2025
 
-![Foto de mi montaje](foto.png)
+<img src="foto.png" alt="Foto de mi montaje" width="600" />
 
 ## 🧠 Componentes
 - **Procesador**: AMD Ryzen 5 5500  

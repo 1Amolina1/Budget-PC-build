@@ -21,5 +21,7 @@ Resumiendo: no gasta como un premium… pero juega como uno razonable.
 ## 📅 Fecha de montaje
 17 de diciembre de 2025
 
-## 📊 Benchmarks (próximamente)
-Los números no engañan: pronto subiré los FPS reales y temperaturas bajo carga.
+## 🎮 Video del Benchmark
+
+[![Fortnite Benchmark](https://img.youtube.com/vi/tKm7O3MAUpw)](https://www.youtube.com/watch?v=TU_ID_DE_VIDEO)
+
